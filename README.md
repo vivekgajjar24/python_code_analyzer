@@ -94,9 +94,3 @@ Analyzing: example.py
 - Cyclomatic complexity calculation  
 - Command-line arguments support  
 - Export analysis reports  
-
----
-
-## Author
-**Vivek**  
-Python Developer
